@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Praktikum Android Kelas 11</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="student_id">student_id</string>
+    <string name="student_name">student_name</string>
+    <string name="student_phone_number">student_phone_number</string>
+    <string name="save">save</string>
+    <string name="dial">dial</string>
+</resources>
